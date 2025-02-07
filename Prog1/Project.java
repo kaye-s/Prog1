@@ -24,6 +24,7 @@ public class Project {
         input = input.trim();
         //"add      $t0,    $t1,     $t2"
 
+
         //Creating the array of strings
         String[] args = input.split(" ");
         for (int i = 0; i < args.length; ++i) {
